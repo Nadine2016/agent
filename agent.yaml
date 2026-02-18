@@ -1,0 +1,8 @@
+agentName: myagent
+image: localhost:5001/myagent:latest
+language: python
+framework: adk
+modelProvider: gemini
+modelName: gemini-2.0-flash
+description: ""
+updatedAt: 2026-02-17T12:43:44.802187-05:00
